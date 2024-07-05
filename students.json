@@ -1,0 +1,3 @@
+[{"name": "Gita", "roll_number": "3", "email": "gita@d.com", "phone_number": "4444666655", "marks": {"bio": 88, "chem": 90, "physics": 97}, "address": "skv", "percentage": 91.66666666666666, "highest_score": 97, "lowest_score": 88, "pass_fail": true}
+,{"name": "xyz", "roll_number": "2", "email": "asd@s.com", "phone_number": "1234543212", "marks": {"mayhematics": 90, "computer": 90, "chemistry": 80}, "address": "damak", "percentage": null, "highest_score": null, "lowest_score": null, "pass_fail": null}
+]
