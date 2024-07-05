@@ -1,1 +1,1 @@
-Run main.py inside src to run the application.
+Run main.py inside  to run the application.
